@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ssm/crud/bean/Emplovee.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ssm/crud/bean/Msg.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ssm/crud/controller/EmploveeController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ssm/crud/service/EmploveeService.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ssm/crud/test/DAOTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ssm/crud/test/MBGTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/ssm/crud/test/mvcTest.java" charset="GBK" />
+    <file url="file://G:/SSM-CRUD/SSM-CRUD/src/main/java/com/ssm/crud/bean/Msg.java" charset="GBK" />
+    <file url="file://G:/SSM-CRUD/SSM-CRUD/src/main/java/com/ssm/crud/controller/EmploveeController.java" charset="GBK" />
+    <file url="file://G:/SSM-CRUD/SSM-CRUD/src/main/java/com/ssm/crud/service/EmploveeService.java" charset="GBK" />
+    <file url="file://G:/SSM-CRUD/SSM-CRUD/src/main/java/com/ssm/crud/test/DAOTest.java" charset="GBK" />
+    <file url="file://G:/SSM-CRUD/SSM-CRUD/src/main/java/com/ssm/crud/test/MBGTest.java" charset="GBK" />
+    <file url="file://G:/SSM-CRUD/SSM-CRUD/src/main/java/com/ssm/crud/test/mvcTest.java" charset="GBK" />
+  </component>
+</project>
